@@ -16,7 +16,7 @@ function Topbar() {
           </div>
           <div className="topbarIconContainer">
             <Language />
-            <span className="topIconBadge"></span>
+            <span className="topIconBadge1"></span>
           </div>
           <div className="topbarIconContainer">
             <Settings />
